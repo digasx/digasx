@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Me chamo Rodrigo Araújo</h1>
+<h1 align="center">Olá! 👋 Sou Rodrigo Araújo</h1>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, estudante de programação e sempre em busca de novos desafios 🚀
@@ -29,6 +29,7 @@ Linguagens:     Java · Python · JavaScript (básico)
 Frameworks:     Spring Boot · JPA · Thymeleaf
 Ferramentas:    Git · Eclipse · VSCode · Postman · Insomnia
 Banco de dados: PostgreSQL · MySQL
+```
 
 <!--
 **digasx/digasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
