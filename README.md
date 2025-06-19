@@ -24,7 +24,7 @@ Atualmente, aprofundo meus conhecimentos em **Java (com Spring Boot)** e **Pytho
 ## 🧰 Tecnologias e Ferramentas
 
 ```bash
-💻 Linguagens:     Java · Python · SQL · JavaScript (básico)
+💻 Linguagens:     Java · Python · SQL
 🧩 Frameworks:     Spring Boot · Thymeleaf
 🗄️ Banco de dados: PostgreSQL · MySQL
 🛠️ Ferramentas:    Git · Eclipse · Postman · Insomnia
