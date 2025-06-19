@@ -1,35 +1,36 @@
 <h1 align="center">Olá! 👋 Sou Rodrigo Araújo</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, estudante de programação e sempre em busca de novos desafios 🚀
+  Software Developer | Graduado em Análise e Desenvolvimento de Sistemas 🎓
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧾 Sobre mim
 
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
-- 💻 Estudando **Java com Spring Boot** e **Python para resolução de problemas**
-- 🧩 Interesse em estruturas de dados, algoritmos e desenvolvimento backend
-- 📚 Praticando lógica de programação, algoritmos clássicos e problemas de competição
+Sou desenvolvedor de software com graduação em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pela lógica por trás do código. 
+
+Atualmente, aprofundo meus conhecimentos em **Java (com Spring Boot)** e **Python**, com foco em **back-end**, **algoritmos** e **estrutura de dados**. Também tenho interesse em boas práticas de código, arquitetura de sistemas e metodologias ágeis.
 
 ---
 
-## 💼 Skills
+## 🧰 Tecnologias e Ferramentas
 
 ```bash
-Linguagens:     Java · Python · JavaScript (básico)
-Frameworks:     Spring Boot · JPA · Thymeleaf
-Ferramentas:    Git · Eclipse · VSCode · Postman · Insomnia
-Banco de dados: PostgreSQL · MySQL
+💻 Linguagens:     Java · Python · SQL · JavaScript (básico)
+🧩 Frameworks:     Spring Boot · Thymeleaf
+🗄️ Banco de dados: PostgreSQL · MySQL
+🛠️ Ferramentas:    Git · Eclipse · Postman · Insomnia
+📦 Outros:         API REST · Maven · Docker (iniciante)
 ```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=digasx&show_icons=true&theme=radical" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digasx&layout=compact&theme=radical" height="150" /> </p>
 
 <!--
 **digasx/digasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
