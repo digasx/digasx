@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Sou Rodrigo Araújo</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   Software Developer | Graduado em Análise e Desenvolvimento de Sistemas 🎓
@@ -25,10 +25,10 @@ Atualmente, aprofundo meus conhecimentos em **Java (com Spring Boot)** e **Pytho
 
 ```bash
 💻 Linguagens:     Java · Python · SQL
-🧩 Frameworks:     Spring Boot · Thymeleaf
+🧩 Frameworks:     Spring · Django · Flask
 🗄️ Banco de dados: PostgreSQL · MySQL
-🛠️ Ferramentas:    Git · Eclipse · Postman · Insomnia
-📦 Outros:         API REST · Maven · Docker (iniciante)
+🛠️ Ferramentas:    Git · Postman · Insomnia
+📦 Outros:         API REST · Maven · Docker
 ```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=digasx&show_icons=true&theme=radical" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digasx&layout=compact&theme=radical" height="150" /> </p>
 
